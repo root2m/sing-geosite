@@ -1,4 +1,4 @@
-module github.com/sagernet/sing-geosite
+module github.com/root2m/sing-geosite
 
 go 1.18
 
